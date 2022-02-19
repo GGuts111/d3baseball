@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hello!" />
+        <Header title="D3 Baseball 2022 season" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          The rankings are \ln 1. Salisbury 
         </p>
       </main>
 
